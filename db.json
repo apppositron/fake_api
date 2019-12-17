@@ -2,25 +2,31 @@
 	"order_list" : [
 		{
 			"order_id" : 469192,
-			"order_status" : "Обрабатывается",
+			"order_status" : "В обработке",
 			"total_price" : 456.0,
-			"reg_date" : "2019-12-05",
+			"delivery_type" : 0,
+			"delivery_date" : "2019-12-10T21:00:00.000Z",
+			"reg_date" : "2019-12-05T21:00:00.000Z",
 			"products_gcode": ["23541627","23479432","23448377"],
 			"img_previews": []
 		},
 		{
 			"order_id" : 559315,
-			"order_status" : "Обрабатывается",
+			"order_status" : "В обработке",
 			"total_price" : 1254.8,
-			"reg_date" : "2019-12-07",
+			"delivery_type" : 0,
+			"delivery_date": "2019-12-10T21:00:00.000Z",
+			"reg_date" : "2019-12-07T21:00:00.000Z",
 			"products_gcode": ["23479432","23448384","23448391","23541627","23448377","23448421","23314719"],
 			"img_previews": []
 		},
 		{
 			"order_id" : 459791,
-			"order_status" : "Обрабатывается",
+			"order_status" : "В обработке",
 			"total_price" : 3463.0,
-			"reg_date" : "2019-12-12",
+			"delivery_type" : 0,
+			"delivery_date" : "2019-12-20T21:00:00.000Z",
+			"reg_date" : "2019-12-12T21:00:00.000Z",
 			"products_gcode": ["23314719","23448377","23448384","23448391","23479432","23541627","23448384","23541627"],
 			"img_previews": []
 		}
