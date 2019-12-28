@@ -13,7 +13,7 @@
 			"order_id" : 559315,
 			"order_status" : "В обработке",
 			"total_price" : 1254.8,
-			"delivery_type" : 0,
+			"delivery_type" : 1,
 			"delivery_date": "2019-12-10T21:00:00.000Z",
 			"reg_date" : "2019-12-07T21:00:00.000Z",
 			"products_count": 7
@@ -22,7 +22,7 @@
 			"order_id" : 459791,
 			"order_status" : "В обработке",
 			"total_price" : 3463.0,
-			"delivery_type" : 0,
+			"delivery_type" : 1,
 			"delivery_date" : "2019-12-20T21:00:00.000Z",
 			"reg_date" : "2019-12-12T21:00:00.000Z",
 			"products_count": 8
