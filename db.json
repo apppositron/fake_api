@@ -21,7 +21,7 @@
 		{
 			"order_id" : 459791,
 			"order_status" : "В обработке",
-			"total_price" : 3463.0,
+			"total_price" : 3467.0,
 			"delivery_type" : 1,
 			"delivery_date" : "2019-12-20T21:00:00.000Z",
 			"reg_date" : "2019-12-12T21:00:00.000Z",
@@ -29,6 +29,4 @@
 		}
 		
 	]
-	
-	
 }
