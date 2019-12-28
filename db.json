@@ -2,7 +2,7 @@
 	"order_list" : [
 		{
 			"order_id" : 469192,
-			"order_status" : "В обработке",
+			"order_status" : "Подтверждён",
 			"total_price" : 456.0,
 			"delivery_type" : 0,
 			"delivery_date" : "2019-12-10T21:00:00.000Z",
@@ -11,7 +11,7 @@
 		},
 		{
 			"order_id" : 559315,
-			"order_status" : "В обработке",
+			"order_status" : "Получен",
 			"total_price" : 1254.8,
 			"delivery_type" : 1,
 			"delivery_date": "2019-12-10T21:00:00.000Z",
