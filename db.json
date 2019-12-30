@@ -5,8 +5,8 @@
 			"order_status" : "Подтверждён",
 			"total_price" : 456.0,
 			"delivery_type" : 0,
-			"delivery_date" : "2019-12-10T21:00:00.000Z",
-			"reg_date" : "2019-12-05T21:00:00.000Z",
+			"delivery_date" : "2019-12-10",
+			"reg_date" : "2019-12-05",
 			"products_count": 3
 		},
 		{
@@ -14,8 +14,8 @@
 			"order_status" : "Получен",
 			"total_price" : 1254.8,
 			"delivery_type" : 1,
-			"delivery_date": "2019-12-10T21:00:00.000Z",
-			"reg_date" : "2019-12-07T21:00:00.000Z",
+			"delivery_date": "2019-12-10",
+			"reg_date" : "2019-12-07",
 			"products_count": 7
 		},
 		{
@@ -23,8 +23,8 @@
 			"order_status" : "В обработке",
 			"total_price" : 3467.0,
 			"delivery_type" : 1,
-			"delivery_date" : "2019-12-20T21:00:00.000Z",
-			"reg_date" : "2019-12-12T21:00:00.000Z",
+			"delivery_date" : "2019-12-20",
+			"reg_date" : "2019-12-12",
 			"products_count": 8
 		}
 		
