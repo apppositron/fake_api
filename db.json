@@ -28,5 +28,9 @@
 			"products_count": 8
 		}
 		
-	]
+	],
+	
+	"user-reset": {
+		"result" : "success"
+	}
 }
