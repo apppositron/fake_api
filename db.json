@@ -1,36 +1,6 @@
 {
-	"order_list" : [
-		{
-			"order_id" : 469192,
-			"order_status" : "Подтверждён",
-			"total_price" : 456.0,
-			"delivery_type" : 0,
-			"delivery_date" : "2019-12-10",
-			"reg_date" : "2019-12-05",
-			"products_count": 3
-		},
-		{
-			"order_id" : 559315,
-			"order_status" : "Получен",
-			"total_price" : 1254.8,
-			"delivery_type" : 1,
-			"delivery_date": "2019-12-10",
-			"reg_date" : "2019-12-07",
-			"products_count": 7
-		},
-		{
-			"order_id" : 459791,
-			"order_status" : "В обработке",
-			"total_price" : 3467.0,
-			"delivery_type" : 1,
-			"delivery_date" : "2019-12-20",
-			"reg_date" : "2019-12-12",
-			"products_count": 8
-		}
-		
-	],
-	
-	"user-reset": {
-		"result" : "success"
-	}
+"updates": {
+        "check-for": "automatically",
+        "notify": "always"
+    }
 }
