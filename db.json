@@ -8,5 +8,16 @@
         "first_name": "Иван",
         "phone": "79436535423",
         "birthdate": "1967-09-11"
-    }
+    },
+ 
+ "categories_info" : 
+  {
+   "id": 19,
+   "parent_id": 2,
+   "name": "Арматура",
+   "description": "",
+   "sub_category_count": 0,
+   "path": "armatura",
+   "product_count": 11
+ }
 }
