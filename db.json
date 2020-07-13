@@ -19,5 +19,17 @@
    "sub_category_count": 0,
    "path": "armatura",
    "product_count": 11
+ },
+ 
+ "deeplink": {
+   "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3YSLX7L42M.ru.positron-it.vimos",
+                "paths": ["*"],
+            }
+        ]
+    }
  }
 }
