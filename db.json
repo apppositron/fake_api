@@ -1,7 +1,7 @@
 {
   "profile_info" : {
     "uuid" : "wegw23g23g",
-   "type" : "candidate",
+   "type" : 0,
    "name" : "Вася Пупкинс",
    "phone" : "+7934634634",
    "gender" : 0,
