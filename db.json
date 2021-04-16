@@ -1,36 +1,24 @@
 {
- "card_validate": {
-        "result": "success",
-        "email": "example@gmail.com",
-        "discount_card": "543764",
-        "last_name": "Иванов",
-        "middle_name": "Иванович",
-        "first_name": "Иван",
-        "phone": "79436535423",
-        "birthdate": "1967-09-11"
-    },
- 
- "categories_info" : 
-  {
-   "id": 19,
-   "parent_id": 2,
-   "name": "Арматура",
-   "description": "",
-   "sub_category_count": 0,
-   "path": "armatura",
-   "product_count": 11
- },
- 
- "deeplink" : {
-   "applinks" : {
-     "apps" : [],
-     "details" : [
-       {
-         "appID": "3YSLX7L42M.ru.positron-it.vimos",
-         "paths": ["*"],
-       }
-      ]
+  "profile_info" : {
+    "uuid" : "wegw23g23g",
+   "type" : "candidate",
+   "name" : "Вася Пупкинс",
+   "phone" : "+7934634634",
+   "gender" : 0,
+   "date_birth" : "1985-03-26T17:49:58Z",
+   "nickname" : "vasyan",
+   "email": "vasyan@ergerh.er",
+   "avatarUrl" : "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg",
+   
+   "vacancy" : {
+     "job_position" : "IT-аналитик",
+     "job_location" : "Санкт-Петербург",
+     "activity_scope" : "IT-разработка",
+     "work_type" : "Удаленно, попроектно, работа в офисе",
+     "description" : "Дизайнер с большим опытом работы, умею проектировать интерфейсы, общаться с клиентами и отстаивать свою точку зрения",
+     "portfolio_url" : "https://behance.com/kamerunec151215"
    }
- }
+  
+  }
 
 }
