@@ -27,7 +27,8 @@
   },
   
   "by_phone" : {
-     "status" : "success"
+    "status" : "success",
+    "auth_status" : "unregistered"
   }
   
 }
