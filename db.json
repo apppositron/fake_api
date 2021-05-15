@@ -20,5 +20,14 @@
      "portfolio_url" : "https://behance.com/kamerunec151215"
    }
   
+  },
+  
+  "send_code" : {
+     "status" : "success"
+  },
+  
+  "by_phone" : {
+     "status" : "success"
   }
+  
 }
