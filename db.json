@@ -2,7 +2,7 @@
   "profile_info" : {
   "status" : "success",
   "auth_status" : "succeed",
-  "uuid" : "wegw23g23g",
+  "user_id" : "wegw23g23g",
    "type" : 0,
    "name" : "Вася Пупкинс",
    "phone" : "+7934634634",
