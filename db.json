@@ -33,6 +33,7 @@
   },
   
   "register" : {
+    "status" : "success",
     "auth_status" : "uploadAvatar",
     "type" : 0,
     "user_id" : "weg34h34h"
