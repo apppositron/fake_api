@@ -30,5 +30,12 @@
   "by_phone" : {
     "status" : "success",
     "auth_status" : "succeed"
+  },
+  
+  "register" : {
+    "auth_status" : "uploadAvatar",
+    "type" : 0,
+    "user_id" : "weg34h34h"
   }
+  
 }
